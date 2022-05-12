@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "908015105562",
+    "project_id": "myapp-d23d2",
+    "storage_bucket": "myapp-d23d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908015105562:android:6f158f86cff87393ce43a3",
+        "android_client_info": {
+          "package_name": "com.codingminds.flutter_app_reciples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908015105562-ringh4tflkg77elcdbtd8pvn8vpvrpvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATjx9zKHsnoCTlw4S3uw_Xkcgb0IY_B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908015105562-ringh4tflkg77elcdbtd8pvn8vpvrpvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908015105562:android:f5a5eb7285034942ce43a3",
+        "android_client_info": {
+          "package_name": "cpp.cs4750.ozo_class_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908015105562-ringh4tflkg77elcdbtd8pvn8vpvrpvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATjx9zKHsnoCTlw4S3uw_Xkcgb0IY_B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908015105562-ringh4tflkg77elcdbtd8pvn8vpvrpvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
